@@ -1,5 +1,5 @@
-# ようこそ! I'm whoiamHiragana 
-### 🔧 Systems Programming Craftsman | API Architect | Polyglot Developer
+# ようこそ! I am whoiamHiragana  
+### 🔧 Systems Programming Expert | API Architect | Multilingual Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Low-Level+Enthusiast;Memory+Management+Artisan;Performance+Optimizer;Systems+Archaeologist" alt="Typing animation" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
 **Core Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
