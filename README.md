@@ -1,4 +1,4 @@
-# ようこそ! I'm whoiamHiragana 👋
+# ようこそ! I'm whoiamHiragana 
 ### 🔧 Systems Programming Craftsman | API Architect | Polyglot Developer
 
 <p align="center">
@@ -39,14 +39,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiamHiragana&layout=compact&theme=radical&hide_border=true)](https://github.com/whoiamHiragana)
 
 ---
-
-### 🎯 Philosophy
-```c++
-void coding_philosophy() {
-    while(true) {
-        optimize();
-        refactor();
-        if (system_limits_reached) 
-            hack_hardware();
-    }
-}
